@@ -70,6 +70,10 @@ Beyond the cloud, I create tools and apps for:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4math2379&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4math2379&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathansinien/)

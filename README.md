@@ -68,9 +68,7 @@ Beyond the cloud, I create tools and apps for:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4math2379&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4math2379&theme=dracula" alt="GitHub Activity Graph" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4math2379&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect With Me
 

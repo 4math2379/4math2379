@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there, I'm 4math
 
-<!--
-**4math2379/4math2379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Where technology meets imagination
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Cloud & DevOps Engineer by day, and a creative developer by night. I bridge the gap between enterprise infrastructure and imaginative gaming tools, creating robust solutions for both professional environments and the gaming community.
+
+## Cloud & DevOps Expertise
+
+### Cloud Architecture
+- Designing complex cloud architectures on **AWS**, leveraging services like:
+  - EC2, S3, RDS, Lambda, and EKS
+  - VPC design and multi-region deployments
+  - Cost optimization and performance tuning
+
+### Infrastructure as Code
+- Automating infrastructure deployment with **Terraform**
+- Developing custom modules for code reuse and maintainability
+- Managing state files and implementing best practices
+
+### CI/CD & Automation
+- Setting up robust pipelines with **GitHub Actions** and **GitLab CI**
+- Ensuring fast, reliable, and automated deployments
+- Container orchestration with Kubernetes and Docker
+
+### DevSecOps
+- Implementing security best practices throughout the development lifecycle
+- Integrating tools like **AWS GuardDuty** and **AWS Config**
+- Automated security scanning and compliance monitoring
+
+## Creative Projects
+
+Beyond the cloud, I create tools and apps for:
+- **Role-players** - Interactive character sheets and campaign tools
+- **Card strategists** - Deck builders and game analyzers
+- **Board game enthusiasts** - Digital companions for tabletop gaming
+
+### Featured Projects
+
+- **[AI RPG Map Generator](https://ai-rpgmapgenerator.com/about)** - Generate stunning RPG maps using AI powered by AWS Bedrock. Create unique battle maps, dungeon layouts, and world maps for your tabletop adventures.
+
+## Tech Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### CI/CD & Version Control
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4math2379&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4math2379&theme=radical" alt="GitHub Streak" />
+</p>
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+<p align="center">
+  <i>"Between AI, DevOps, and game design, I share my creations and take you behind the scenes of their creation."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4math2379&color=blueviolet" alt="Profile views" />
+</p>

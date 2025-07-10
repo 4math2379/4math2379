@@ -69,7 +69,7 @@ Beyond the cloud, I create tools and apps for:
 </p>
 
 <p align="center">
-  <img src="https://github-activity-readme.vercel.app/graph?username=4math2379&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4math2379&theme=dracula" alt="GitHub Activity Graph" />
 </p>
 
 ## Connect With Me

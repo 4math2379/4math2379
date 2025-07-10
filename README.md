@@ -68,6 +68,10 @@ Beyond the cloud, I create tools and apps for:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4math2379&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-activity-readme.vercel.app/graph?username=4math2379&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathansinien/)

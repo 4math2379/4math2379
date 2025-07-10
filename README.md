@@ -61,17 +61,17 @@ Beyond the cloud, I create tools and apps for:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4math2379&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4math2379&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4math2379&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4math2379&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4math2379&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4math2379&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4math2379&layout=compact&theme=radical&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## Connect With Me

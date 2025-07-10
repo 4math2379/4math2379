@@ -58,7 +58,23 @@ Beyond the cloud, I create tools and apps for:
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Real Work Impact
+
+### Infrastructure & DevOps Contributions
+- **Private Repositories Managed**: Multiple enterprise-level infrastructure codebases
+- **Infrastructure Automated**: 100+ AWS resources across multiple accounts
+- **CI/CD Pipelines Built**: Automated deployments for 20+ applications
+- **Cost Savings**: Reduced cloud infrastructure costs by 40% through optimization
+- **Security Implementations**: Deployed AWS Security Hub across 10+ accounts
+
+### Recent Activity (Last 12 Months)
+- **Total Contributions**: 310+ commits, issues, and PRs
+- **Primary Focus**: Terraform modules, AWS infrastructure, and DevSecOps implementations
+- **Languages Used**: HCL/Terraform, Python, Shell, JavaScript
+
 ## GitHub Stats
+
+*Note: These stats only reflect public repository contributions. Most of my professional work happens in private enterprise repositories.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4math2379&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />

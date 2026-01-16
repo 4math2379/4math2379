@@ -36,9 +36,6 @@ Beyond the cloud, I create tools and apps for:
 - **Card strategists** - Deck builders and game analyzers
 - **Board game enthusiasts** - Digital companions for tabletop gaming
 
-### Featured Projects
-
-- **[AI RPG Map Generator](https://ai-rpgmapgenerator.com/about)** - Generate stunning RPG maps using AI powered by AWS Bedrock. Create unique battle maps, dungeon layouts, and world maps for your tabletop adventures.
 
 ## Tech Stack
 

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+<title id="t">4Math, AI architect</title>
+<desc id="d">Banner: an isometric stack of three layers, open models on GPUs, MCP servers and AI agents, next to the title "Hi, I'm 4Math", the tagline "Open-source MCP servers, agents and models, from the GPU to the cloud" and the technologies MCP, NVIDIA Nemotron, Hugging Face, vLLM, AWS and Terraform.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#111827"/><stop offset="1" stop-color="#1b1430"/></linearGradient>
+<radialGradient id="glow" cx="0.72" cy="0.5" r="0.4"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.38"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0.4" stop-color="#fff" stop-opacity="0"/><stop offset="0.8" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="gridmask"><rect width="1280" height="360" fill="url(#fade)"/></mask>
+<clipPath id="card"><rect width="1280" height="360" rx="18"/></clipPath>
+<style>
+text { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.kicker { font-size: 15px; font-weight: 700; letter-spacing: 3px; fill: #b48cff; }
+.title { font-size: 58px; font-weight: 700; fill: #f0f6fc; }
+.accent { fill: #b48cff; }
+.tag { font-size: 22px; fill: #9da7b3; }
+.chip { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+.lbl { font-size: 16px; font-weight: 700; fill: #f0f6fc; }
+.sub { font-size: 12.5px; fill: #9da7b3; }
+.grid line { stroke: #30363d; stroke-width: 1; }
+.lead { stroke: #484f58; stroke-width: 1; stroke-dasharray: 3 4; fill: none; }
+.flow { stroke: #b48cff; stroke-width: 2; stroke-dasharray: 6 10; fill: none; stroke-linecap: round; animation: flow 1.6s linear infinite; }
+.pulse { animation: pulse 3s ease-in-out infinite; opacity: 0; }
+.p2 { animation-delay: 1s; }
+.p3 { animation-delay: 2s; }
+@keyframes flow { to { stroke-dashoffset: -32; } }
+@keyframes pulse { 0%, 100% { opacity: 0; } 18%, 30% { opacity: 0.55; } 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } }
+</style>
+</defs>
+
+<g clip-path="url(#card)">
+<rect width="1280" height="360" fill="url(#bg)"/>
+<rect width="1280" height="360" fill="url(#glow)"/>
+
+<!-- isometric grid, fading in on the right -->
+<g class="grid" mask="url(#gridmask)">
+  <line x1="560" y1="-40" x2="1360" y2="360"/><line x1="480" y1="-40" x2="1280" y2="360"/><line x1="640" y1="-40" x2="1440" y2="360"/>
+  <line x1="720" y1="-40" x2="1520" y2="360"/><line x1="400" y1="-40" x2="1200" y2="360"/><line x1="320" y1="-40" x2="1120" y2="360"/>
+  <line x1="1360" y1="-40" x2="560" y2="360"/><line x1="1440" y1="-40" x2="640" y2="360"/><line x1="1280" y1="-40" x2="480" y2="360"/>
+  <line x1="1520" y1="-40" x2="720" y2="360"/><line x1="1600" y1="-40" x2="800" y2="360"/><line x1="1680" y1="-40" x2="880" y2="360"/>
+</g>
+
+<!-- left: identity -->
+<text class="kicker" x="64" y="84">AI ARCHITECT  ·  OPEN SOURCE</text>
+<text class="title" x="64" y="152">Hi, I'm <tspan class="accent">4Math</tspan></text>
+<text class="tag" x="64" y="196">Open-source MCP servers, agents and models,</text>
+<text class="tag" x="64" y="226">from the GPU to the cloud.</text>
+
+<!-- chips -->
+<g transform="translate(64 268)">
+  <rect x="0" y="0" width="74" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="18" cy="16" r="5" fill="#8B5CF6"/><text class="chip" x="30" y="21">MCP</text>
+  <rect x="84" y="0" width="166" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="102" cy="16" r="5" fill="#76B900"/><text class="chip" x="114" y="21">NVIDIA Nemotron</text>
+  <rect x="260" y="0" width="138" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="278" cy="16" r="5" fill="#FFD21E"/><text class="chip" x="290" y="21">Hugging Face</text>
+  <rect x="408" y="0" width="76" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="426" cy="16" r="5" fill="#30A2FF"/><text class="chip" x="438" y="21">vLLM</text>
+  <rect x="494" y="0" width="72" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="512" cy="16" r="5" fill="#FF9900"/><text class="chip" x="524" y="21">AWS</text>
+  <rect x="576" y="0" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+  <circle cx="594" cy="16" r="5" fill="#7B42BC"/><text class="chip" x="606" y="21">Terraform</text>
+</g>
+
+<!-- right: the stack, drawn bottom to top. Slab: top diamond half-width 110, half-height 55, thickness 20 -->
+<!-- layer 1: open models on GPUs -->
+<g>
+  <polygon points="810,260 920,315 920,335 810,280" fill="#3d5a0a"/>
+  <polygon points="920,315 1030,260 1030,280 920,335" fill="#2c4207"/>
+  <polygon points="920,205 1030,260 920,315 810,260" fill="#5b8a0c" stroke="#76B900" stroke-width="1.5"/>
+  <g fill="#9fdc2a" opacity="0.9"><polygon points="898,264.5 913,272 898,279.5 883,272"/><polygon points="942,264.5 957,272 942,279.5 927,272"/><polygon points="920,253.5 935,261 920,268.5 905,261"/><polygon points="920,275.5 935,283 920,290.5 905,283"/></g>
+  <polygon class="pulse" points="920,205 1030,260 920,315 810,260" fill="#c6ff5a"/>
+</g>
+<!-- layer 2: MCP servers -->
+<g>
+  <polygon points="810,170 920,225 920,245 810,190" fill="#4c2f99"/>
+  <polygon points="920,225 1030,170 1030,190 920,245" fill="#3a2475"/>
+  <polygon points="920,115 1030,170 920,225 810,170" fill="#6a45d6" stroke="#a58bff" stroke-width="1.5"/>
+  <g stroke="#d9ccff" stroke-width="1.6" fill="none" opacity="0.9"><polygon points="920,164 968,188 920,212 872,188"/><line x1="920" y1="188" x2="920" y2="164"/><line x1="920" y1="188" x2="968" y2="188"/><line x1="920" y1="188" x2="920" y2="212"/><line x1="920" y1="188" x2="872" y2="188"/></g>
+  <g fill="#f0eaff"><circle cx="920" cy="164" r="5"/><circle cx="968" cy="188" r="5"/><circle cx="920" cy="212" r="5"/><circle cx="872" cy="188" r="5"/><circle cx="920" cy="188" r="7"/></g>
+  <polygon class="pulse p2" points="920,115 1030,170 920,225 810,170" fill="#cbb8ff"/>
+</g>
+<!-- layer 3: AI agents -->
+<g>
+  <polygon points="810,80 920,135 920,155 810,100" fill="#8a6a00"/>
+  <polygon points="920,135 1030,80 1030,100 920,155" fill="#6b5200"/>
+  <polygon points="920,25 1030,80 920,135 810,80" fill="#c99a06" stroke="#FFD21E" stroke-width="1.5"/>
+  <g fill="#fff3c2"><ellipse cx="876" cy="89" rx="11" ry="6"/><circle cx="876" cy="78" r="6"/><ellipse cx="920" cy="67" rx="11" ry="6"/><circle cx="920" cy="56" r="6"/><ellipse cx="964" cy="89" rx="11" ry="6"/><circle cx="964" cy="78" r="6"/><ellipse cx="920" cy="111" rx="11" ry="6"/><circle cx="920" cy="100" r="6"/></g>
+  <polygon class="pulse p3" points="920,25 1030,80 920,135 810,80" fill="#fff1a8"/>
+</g>
+
+<!-- request flow along the left edge, from the agents down to the GPUs -->
+<path class="flow" d="M794,88 L794,272"/>
+
+<!-- labels -->
+<path class="lead" d="M1030,80 H1062"/>
+<text class="lbl" x="1072" y="76">AI agents</text>
+<text class="sub" x="1072" y="95">Claude · Nemotron · gpt-oss</text>
+<path class="lead" d="M1030,170 H1062"/>
+<text class="lbl" x="1072" y="166">MCP servers</text>
+<text class="sub" x="1072" y="185">typed tools with guard rails</text>
+<path class="lead" d="M1030,260 H1062"/>
+<text class="lbl" x="1072" y="256">Open models</text>
+<text class="sub" x="1072" y="275">vLLM on cloud or on-prem GPUs</text>
+</g>
+</svg>

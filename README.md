@@ -69,13 +69,31 @@ claude mcp add --transport http tiled-map-builder https://4math-tiled-map-builde
   --header "Authorization: Bearer hf_YOUR_TOKEN"
 ```
 
+## 🃏 Learning project: Teklo Study
+
+<a href="https://github.com/4math2379/Evo-Study-FAB-ccg"><img src="https://raw.githubusercontent.com/4math2379/Evo-Study-FAB-ccg/master/docs/assets/banner.svg" alt="Teklo Study: four fan-made Quantum Evo cards for Teklovossen above a win-rate chart" width="100%"></a>
+
+**Dream cards for Teklovossen, the Mechanologist hero of Flesh and Blood**, plus a small game simulator and a win-rate model, written as a step-by-step way to learn machine learning in Jupyter.
+
+- 🃏 **38 fan-made cards** along four tech paths (AI, Nano, Quantum, Bio), with concept art.
+- ⚔️ **A readable game simulator**: 800 random decks × 50 games each, against one fixed opponent.
+- 📓 **Learning notebooks**: sanity checks, feature engineering, the leakage trap, cross-validation, learning curves and a held-out test set.
+- 📈 **An honest model**: cross-validated R² 0.67 and 0.68 on unseen decks, where the first version scored −1.33.
+- 🤗 **Next**: an LLM through Hugging Face Inference Providers reads the card texts, and the fixed model goes to the Hub.
+
+<p>
+  <a href="https://github.com/4math2379/Evo-Study-FAB-ccg"><img alt="Source on GitHub" src="https://img.shields.io/badge/Source-Evo--Study--FAB--ccg-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://huggingface.co/4math/FAB_Prediction_Model"><img alt="Model on Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FAB__Prediction__Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+</p>
+
+<sub>Fan-made and educational. Not affiliated with Legend Story Studios.</sub>
+
 ## 🧪 More open work
 
 | Project | What it is | Built with |
 |---|---|---|
 | **[nvidia-coding-agent-lab](https://github.com/4math2379/nvidia-coding-agent-lab)**<br><sub>[▶ animated architecture](https://4math2379.github.io/nvidia-coding-agent-lab/)</sub> | An NVIDIA-specialised coding agent: Nemotron served with vLLM on serverless GPUs, wired into Zed and OpenCode, with NVIDIA's docs available over MCP. The same container runs on-prem, and a multi-node InfiniBand lab rehearses the cluster. | Nemotron · vLLM · Modal · MCP |
 | **[Recherches-IA-Souveraine](https://github.com/4math2379/Recherches-IA-Souveraine)** 🇫🇷 | Research reports and Terraform templates for hosting generative AI while keeping control of your data: Mistral on Scaleway, NVIDIA InfiniBand AI factories, GPU clusters with Slurm. | Mistral · Scaleway · NVIDIA · Terraform |
-| **[FAB_Prediction_Model](https://huggingface.co/4math/FAB_Prediction_Model)** 🤗 | An open model (MIT) that predicts the win rate of custom decks for the Flesh and Blood card game, trained on simulated games. An educational project on machine learning for game balance. | scikit-learn · Hugging Face |
 | **[aws-security-hub-soc](https://github.com/4math2379/aws-security-hub-soc)** | Security assessment across AWS accounts for SOC and audit teams: Security Hub findings plus Prowler audits. | AWS · Prowler · Shell |
 | **[aws-finops-tools](https://github.com/4math2379/aws-finops-tools)** | A Docker-based toolkit for AWS cost management and optimisation. | AWS · Docker |
 

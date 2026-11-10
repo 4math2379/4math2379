@@ -88,12 +88,27 @@ claude mcp add --transport http tiled-map-builder https://4math-tiled-map-builde
 
 <sub>Fan-made and educational. Not affiliated with Legend Story Studios.</sub>
 
+## 🇪🇺 Research: Sovereign AI <sub>(in French)</sub>
+
+<a href="https://github.com/4math2379/Recherches-IA-Souveraine"><img src="https://raw.githubusercontent.com/4math2379/Recherches-IA-Souveraine/main/docs/assets/banner.svg" alt="Recherches : IA souveraine. Three layers: European cloud (Mistral on Scaleway), on-prem AI factory (NVIDIA InfiniBand), GPU clusters (Slurm)" width="100%"></a>
+
+**How to host generative AI and keep control of your data**: research reports, reference architectures and Terraform templates, written in French.
+
+- 📚 **10 reports** as standalone HTML pages, each with its sources and what is still to verify.
+- 🇪🇺 **European cloud**: Mistral on Scaleway in the Paris region, with inference modes, costs and GPU availability.
+- 🟩 **On-prem AI factory**: NVIDIA GPUs linked by InfiniBand, from Quantum-X800 to a local lab that starts on the ibsim simulator.
+- 🗓️ **GPU clusters** scheduled with Slurm, with a proof of concept run on a simulated fabric.
+- 🧱 **4 Terraform products** deployable from GitHub Actions: a Mistral API gateway, RAG, agents and analytics, on a shared private, secure-by-default foundation.
+
+<p>
+  <a href="https://github.com/4math2379/Recherches-IA-Souveraine"><img alt="Source on GitHub" src="https://img.shields.io/badge/Source-Recherches--IA--Souveraine-181717?style=for-the-badge&logo=github"></a>
+</p>
+
 ## 🧪 More open work
 
 | Project | What it is | Built with |
 |---|---|---|
 | **[nvidia-coding-agent-lab](https://github.com/4math2379/nvidia-coding-agent-lab)**<br><sub>[▶ animated architecture](https://4math2379.github.io/nvidia-coding-agent-lab/)</sub> | An NVIDIA-specialised coding agent: Nemotron served with vLLM on serverless GPUs, wired into Zed and OpenCode, with NVIDIA's docs available over MCP. The same container runs on-prem, and a multi-node InfiniBand lab rehearses the cluster. | Nemotron · vLLM · Modal · MCP |
-| **[Recherches-IA-Souveraine](https://github.com/4math2379/Recherches-IA-Souveraine)** 🇫🇷 | Research reports and Terraform templates for hosting generative AI while keeping control of your data: Mistral on Scaleway, NVIDIA InfiniBand AI factories, GPU clusters with Slurm. | Mistral · Scaleway · NVIDIA · Terraform |
 | **[aws-security-hub-soc](https://github.com/4math2379/aws-security-hub-soc)** | Security assessment across AWS accounts for SOC and audit teams: Security Hub findings plus Prowler audits. | AWS · Prowler · Shell |
 | **[aws-finops-tools](https://github.com/4math2379/aws-finops-tools)** | A Docker-based toolkit for AWS cost management and optimisation. | AWS · Docker |
 
